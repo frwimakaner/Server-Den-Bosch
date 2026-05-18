@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Den Bosch",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "142.132.203.47",
