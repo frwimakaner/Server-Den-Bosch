@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Den Bosch",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "DenBosch.aternos.me",
