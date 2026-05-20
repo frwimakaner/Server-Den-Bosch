@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "142.132.203.47",
-    "port": 18022,
-    "version": "1.26.21.1",
+    "ip": "DenBosch.aternos.me",
+    "port": 38656,
+    "version": "1.26.20",
     "try-creative": false
   },
   "position": {
